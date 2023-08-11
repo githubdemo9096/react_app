@@ -1,0 +1,12 @@
+{
+  "resourceName": "reactbucket",
+  "policyUUID": "16856e95",
+  "bucketName": "reactstorageapp",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

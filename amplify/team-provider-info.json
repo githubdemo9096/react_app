@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "reactappc518f43b": {}
+      },
+      "api": {
+        "reactapp": {}
+      },
+      "storage": {
+        "reactbucket": {}
       }
     }
   }
